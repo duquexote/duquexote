@@ -1,7 +1,7 @@
 ### E ai pessoal, eu sou Guilherme Duque 👋
 
 - 🌱 Estou estudando Flutter
-- 📫 Como falar comigo: guilherme.duque30@gmail.com
+- 📫 Como falar comigo: guilherme.duque30@gmail.com / Insta: @duquexote
 - ⚡ Fun fact: Gosto de criar algumas artes no Photoshop!
 
 <div align="center">
